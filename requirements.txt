@@ -1,0 +1,9 @@
+sentencepiece
+transformers
+torch
+fastapi
+starlette
+aiofiles
+python-multipart
+Pillow
+uvicorn
